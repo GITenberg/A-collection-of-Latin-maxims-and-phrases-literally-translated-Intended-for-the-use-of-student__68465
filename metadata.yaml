@@ -1,11 +1,16 @@
 _repo: A-collection-of-Latin-maxims-and-phrases-literally-translated-Intended-for-the-use-of-student__68465
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68465-h/images/cover.jpg
 creator:
   author:
     agent_name: Cotterell, John N.
     gutenberg_agent_id: '54756'
     url: http://www.gutenberg.org/2009/agents/54756
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68465#A-collection-of-Latin-maxims-and-phrases-literally-translated-Intended-for-the-use-of-student_
 gutenberg_issued: '2022-07-06'
 identifiers:
   gutenberg: '68465'
